@@ -1,7 +1,5 @@
 ### Hi there, I'm Rodrigo Faria - aka [Dekar] 👋 
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/RodrigoFaria_22?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FRodrigoFaria_22&screen_name=RodrigoFaria_22)
-
 ## I'm a University Student, Developer and Gamer!!
 
 ### Connect with me:
