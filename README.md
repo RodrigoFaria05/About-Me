@@ -1,4 +1,4 @@
-### Hi there, I'm Rodrigo Faria - aka [Dekar] 👋 
+### Hi there, I'm Rodrigo Faria👋 
 
 ## I'm a University Student, Developer and Gamer!!
 
